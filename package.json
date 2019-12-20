@@ -1,0 +1,32 @@
+{
+  "name": "parla-e2e",
+  "version": "1.0.0",
+  "description": "Parla e2e with cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arla-sigl/parla-e2e.git"
+  },
+  "keywords": [
+    "Parla",
+    "E2E",
+    "Cypress"
+  ],
+  "author": "florentfauchille@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arla-sigl/parla-e2e/issues"
+  },
+  "homepage": "https://github.com/arla-sigl/parla-e2e#readme",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^4.1.1",
+    "cypress": "^3.8.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.4"
+  }
+}
