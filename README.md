@@ -33,7 +33,7 @@ Cypress comes with a very good documentation; feel free to browse it for your ne
 
 Checkout out [Cypress.io documentation on how to write tests](https://docs.cypress.io/guides/overview/why-cypress.html#Writing-tests)
 
-You should test a user interaction of your choic, on [Parla](https://github.com/arla-sigl/groupe-12). 
+You should test a user interaction of your choice, on [Parla](https://github.com/arla-sigl/groupe-12). 
 
 > Note: The use of Typescript with Cypress gives us auto-completion on Cypress commands
 
